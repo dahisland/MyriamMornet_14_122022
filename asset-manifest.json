@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MyriamMornet_14_122022/static/css/main.589843d5.css",
-    "main.js": "/MyriamMornet_14_122022/static/js/main.fc9a5457.js",
+    "main.css": "/MyriamMornet_14_122022/static/css/main.8249b2f3.css",
+    "main.js": "/MyriamMornet_14_122022/static/js/main.73ba4cbb.js",
     "static/js/787.7ba79c38.chunk.js": "/MyriamMornet_14_122022/static/js/787.7ba79c38.chunk.js",
     "static/media/favicon.png": "/MyriamMornet_14_122022/static/media/favicon.27745ab0f059fe454734.png",
     "static/media/logo-wealth-health-transparent.png": "/MyriamMornet_14_122022/static/media/logo-wealth-health-transparent.f1cf14d80ad383341fe9.png",
     "index.html": "/MyriamMornet_14_122022/index.html",
-    "main.589843d5.css.map": "/MyriamMornet_14_122022/static/css/main.589843d5.css.map",
-    "main.fc9a5457.js.map": "/MyriamMornet_14_122022/static/js/main.fc9a5457.js.map",
+    "main.8249b2f3.css.map": "/MyriamMornet_14_122022/static/css/main.8249b2f3.css.map",
+    "main.73ba4cbb.js.map": "/MyriamMornet_14_122022/static/js/main.73ba4cbb.js.map",
     "787.7ba79c38.chunk.js.map": "/MyriamMornet_14_122022/static/js/787.7ba79c38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.589843d5.css",
-    "static/js/main.fc9a5457.js"
+    "static/css/main.8249b2f3.css",
+    "static/js/main.73ba4cbb.js"
   ]
 }
