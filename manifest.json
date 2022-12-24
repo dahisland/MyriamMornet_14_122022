@@ -1,7 +1,7 @@
 {
   "short_name": "Wealth Health HRnet",
   "name": "An app to manage Human Resources for Wealth Health",
-  "start_url": "https://dahisland.github.io/MyriamMornet_14_122022/",
+  "start_url": ".",
   "prefer_related_applications": true,
   "icons": [
     {
